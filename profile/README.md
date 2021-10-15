@@ -10,3 +10,4 @@
 
 - NestJS (MultiTenant application)
 - NextJS (NextAuth.js and JWT support)
+- ReactJS ("Create React App" structure with JWT support)
